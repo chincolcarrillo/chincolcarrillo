@@ -1,6 +1,6 @@
 - Hola! Soy @chincolcarrillo 
 - Estudio sociología y me interesa la ciencia abierta
-- Actualmente estoy buscando tener un mejor control de versiones de mis trabajos en R (hasta ahora soy un desastre) y subir aquí mis intentos de flujo de investigación reproducible 🌱 
+- Actualmente estoy buscando tener un mejor control de versiones de mis trabajos (hasta ahora soy un desastre) y subir aquí mis intentos de flujo de investigación reproducible 🌱 
 
 - Me puedes escribir a carolina.constanza@gmail.com
 
