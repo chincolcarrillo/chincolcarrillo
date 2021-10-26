@@ -1,8 +1,8 @@
-- Hola! Soy @chincolcarrillo 
+- Hola! Soy Carolina Carrillo (@chincolcarrillo), ave urbana común 
 - Estudio sociología y me interesa la ciencia abierta
-- Actualmente estoy buscando tener un mejor control de versiones de mis trabajos (hasta ahora soy un desastre) y subir aquí mis intentos de flujo de investigación reproducible 🌱 
+- Actualmente estoy buscando tener un mejor control de versiones de mis trabajos y subir aquí mis intentos de flujo de investigación reproducible 🌱 
 
-- Me puedes escribir a carolina.constanza@gmail.com
+- Me puedes escribir a carolina.carrillo@ug.uchile.cl
 
 <!---
 chincolcarrillo/chincolcarrillo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
